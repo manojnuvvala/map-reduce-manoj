@@ -23,3 +23,8 @@ Fields include:
 - JP_Sales - Sales in Japan (in millions)
 - Other_Sales - Sales in the rest of the world (in millions)
 - Year - Year of release of the game
+
+## Output 
+
+- In which plaftform of videogames has highest number of sales occured ?
+- Ans - From the combo chat I got to know PC platform has hightest number number of sales in video games.
