@@ -31,4 +31,4 @@ Fields include:
 
 #### Image of output
 
-!(Game.PNG)[Game]
+![Game](Image/game.png)
