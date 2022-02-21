@@ -28,3 +28,7 @@ Fields include:
 
 - In which plaftform of videogames has highest number of sales occured ?
 - Ans - From the combo chat I got to know PC platform has hightest number number of sales in video games.
+
+#### Image of output
+
+!(Game.PNG)[Game]
